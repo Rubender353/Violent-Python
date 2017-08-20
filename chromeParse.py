@@ -1,5 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+#based on chapter 3's parse-firefox. This script parses chrome for the same type of info. 
+# history, cookies, google search history, and download history
 
 import re
 import optparse
